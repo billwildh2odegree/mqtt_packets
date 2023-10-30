@@ -333,36 +333,6 @@ No Payload Defined - Legacy Devices
 
 
 
-<!--
-[lora.aqura_water](sample_packets/lora.aqura_water.md)    
-[lora.axioma_ultrasonic](sample_packets/lora.axioma_ultrasonic.md)    
-[lora.dragino_satec_kwh](sample_packets/lora.dragino_satec_kwh.md)    
-[lora.dual_channel_water_sensor](sample_packets/lora.dual_channel_water_sensor.md)    
-[lora.eleven_x_encoded](sample_packets/lora.eleven_x_encoded.md)    
-[lora.pulse_meter](sample_packets/lora.pulse_meter.md)    
-[lora.rope_water_sensor](sample_packets/lora.rope_water_sensor.md)    
-[lora.strega_shut_off_valve](sample_packets/lora.strega_shut_off_valve.md)    
-[lora.temperature_humidity_sensor](sample_packets/lora.temperature_humidity_sensor.md)    
-[lora.vision_socket_12s](sample_packets/lora.vision_socket_12s.md)    
-[zigbee.aqura_water](sample_packets/zigbee.aqura_water.md)    
-[zigbee.btu_commodity](sample_packets/zigbee.btu_commodity.md)    
-[zigbee.btu_diagnostic](sample_packets/zigbee.btu_diagnostic.md)    
-[zigbee.coordinator](sample_packets/zigbee.coordinator.md)    
-[zigbee.ekm_rs485](sample_packets/zigbee.ekm_rs485.md)    
-[zigbee.mini](sample_packets/zigbee.mini.md)    
-[zigbee.not_identified](sample_packets/zigbee.not_identified.md)    
-[zigbee.pulse_counter.md](sample_packets/zigbee.pulse_counter.md)    
-[zigbee.router](sample_packets/zigbee.router.md)    
-[zigbee.temperature_humidity_sensor.md](sample_packets/zigbee.temperature_humidity_sensor.md)    
-[zigbee.thermostat](sample_packets/zigbee.thermostat.md)    
-[zigbee.vision_datagate](sample_packets/zigbee.vision_datagate.md)    
-[zigbee.vision_electric](sample_packets/zigbee.vision_electric.md)    
-[zigbee.zigbee_gateway](sample_packets/zigbee.zigbee_gateway.md)    
--->
-
-
-
-
 # Customer Cache
 
 ## Location Information 
