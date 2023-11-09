@@ -3,13 +3,15 @@
  {
     "sensor_radio_type": "zigbee", 
     "sensor_data": {
+        "indoor_temperature_f": 71,
+        "heating_set_point_f": 67,
+        "fan_active": "no",
+        "cool_active": "no",
+        "heat_active": "no",
+        "mode": "heat",
         "rate_of_decay": 0, 
-        "program_heat": 62, 
-        "regulator_status": 1, 
         "program_overrides": 2472, 
-        "override_heat": 73, 
         "multicast_hop": 2, 
-        "thermostat_time": "653FBEA0", 
         "rate_of_heat": 0, 
         "diagnostic": 0, 
         "motrv": 0, 
@@ -17,9 +19,8 @@
         "attached_minis": 2, 
         "heat_active_seconds": 8594578, 
         "limit_changes": 1622, 
-        "instant_temperature": 2573, 
-        "heat_events": 6522, 
-        "special": 0
+        "heat_events": 6522
+     
     }, 
     "location_information": {
         "property_name": "", 
