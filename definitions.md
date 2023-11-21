@@ -20,3 +20,12 @@ Transmission type provides a verbal queue as to the reason that the device gener
 |--|--|--|--|
 | commodity | All | Commodity data - gallons, kwh , pulses ||
 | health_packet | Zigbee | Contains network information information about device performance | Not implemented |
+
+
+# Location Information -> Meter Type
+
+| location_information->meter_type |  Description | Notes |
+|--|--|--|
+| submeter | Is a meter after the master meters ||
+| master meter | Is a mater for multiple locations / all locaations ||
+| common area | Is a meter that is after a master meter but is metering a common use location such as laundry | |
