@@ -249,6 +249,10 @@ Ultrasonic Water Meters
 Encoded Water Meters
 
 [lora.eleven_x_encoded.84](samples_231030/lora.eleven_x_encoded.84.md)  
+[lora.gwf_encoded_integrated.106](samples_231030/lora.gwf_encoded_integrated.106.md)  
+[lora.gwf_encoded_remote.107](samples_231030/lora.gwf_encoded_remote.107.md)  
+[lora.gwf_encoded_remote.108](samples_231030/lora.gwf_encoded_remote.108.md)  
+
 
 Aqura Water Meters
 
