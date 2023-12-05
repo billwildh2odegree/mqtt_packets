@@ -41,18 +41,10 @@
         }
     },
     "sensor_data": {
-        "gallons": 0,
+        "gallons": 46.8,
         "utility": "cold water",
-        "meter_sn": 23208626,
-        "interval_length": 60,
-        "data_quality": 0,
-        "leak": false,
-        "backflow": false,
-        "freeze": false,
-        "tamper": false,
-        "no_usage": false,
-        "battery_score": 255,
-        "has_alarm": true
+        "meter_sn": 23139842,
+        "interval_length": 60
     },
     "location_information": {
         "location_information_found": 0,
