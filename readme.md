@@ -140,7 +140,7 @@ Sensor data will vary by device. The [Sample Packets By Device Type](#sample-pac
             "common": {  
                 "serial_number": "000D6F000351227D",  
                 "device_type": "router",  
-                "payload-type": "commodity",  
+                "payload_type": "commodity",  
                 "gateway_timestamp": "2023-03-24 10:57:52",  
                 "gateway_hostname": "channelwood_dup",  
                 "firmware_version": "02.08"  
