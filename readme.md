@@ -312,6 +312,8 @@ Thermostats
 [zigbee.thermostat.129](samples_231030/zigbee.thermostat.129.md)  
 [zigbee.thermostat.171](samples_231030/zigbee.thermostat.171.md)  
 [zigbee.thermostat.179](samples_231030/zigbee.thermostat.179.md)  
+[zigbee.thermostat.182](samples_231030/zigbee.thermostat.182.md)  
+
 
 Zigbee Infrastructure
 
