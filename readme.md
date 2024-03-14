@@ -291,7 +291,7 @@ Electric Meters
 
 [lora.dragino_satec_kwh.102](samples_231030/lora.dragino_satec_kwh.102.md)  
 [lora.vision_socket_12s.76](samples_231030/lora.vision_socket_12s.76.md)  
-[zigbee.vision_electric.187](samples_231030/zigbee.vision_electric.187.md)  
+[zigbee.electric.187](samples_231030/zigbee.electric.187.md)  
 [zigbee.accuenergy_modbus.192](samples_231030/zigbee.accuenergy_modbus.192.md)  
 [zigbee.ekm_rs485.166](samples_231030/zigbee.ekm_rs485.166.md)  
 
