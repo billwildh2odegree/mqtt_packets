@@ -97,7 +97,7 @@
         "common": {
             "gateway_timestamp": "2023-10-30 14:39:18", 
             "payload_type": "commodity", 
-            "device_type": "vision_electric", 
+            "device_type": "electric", 
             "serial_number": "0100000010484994", 
             "firmware_version": "255.255", 
             "gateway_hostname": "FFFF00253105DBF6"
