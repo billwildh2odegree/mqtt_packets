@@ -121,7 +121,10 @@ Sensor data will vary by device. The [Sample Packets By Device Type](#sample-pac
             "flow_events": 12684,  
             "flow_time_minutes": 6988,  
             "transmit_attempt_count": 16502  
-        },  
+        },
+	 "command_response": {  
+	        "none":"none"
+	},  
         "location_information": {  
             "location_information_found": 0,  
             "property_name": "",  
