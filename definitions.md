@@ -20,6 +20,7 @@ Transmission type provides a verbal queue as to the reason that the device gener
 |--|--|--|--|
 | commodity | All | Commodity data - gallons, kwh , pulses ||
 | health_packet | Zigbee | Contains network information information about device performance | Not implemented |
+| command_response | All | Contains data related to a command downlink  | |
 
 
 # Location Information -> Meter Type
