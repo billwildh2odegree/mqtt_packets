@@ -32,24 +32,35 @@
 The location information data that is provided in the customer cached data feed is   
 more extensive than the main data plane packets. See the [Customer Cache](#customer-cache) section.
 
+Below are the examples of the location_information element. Only when found will the location 
+information elements be present.
+
 ```javascript         
     "location_information": {  
-        "location_information_found": 0,  
-        "property_name": "",  
-        "building_name": "",  
-        "apartment_name": "",  
-        "property_id": 0,  
-        "building_id": 0,  
-        "apartment_id": 0,  
-        "device_unique_id": 0,  
+        "location_information_found": 1,  
+        "property_name": "Daves Apartments",  
+        "building_name": "1",  
+        "apartment_name": "101",  
+        "property_id": 345,  
+        "building_id": 342342,  
+        "apartment_id": 2342342,  
+        "device_unique_id": 97856,  
         "repair_flag": 0,  
         "repair_flag_reason": "",  
-        "bedroom_count": 0,  
-        "bathroom_count": 0,  
-        "meter_type": "",  
-        "attached_to": ""  
+        "bedroom_count": 1,  
+        "bathroom_count": 2,  
+        "meter_type": "matster",  
+        "attached_to": "boiler"  
     }  
 ```
+
+
+```javascript         
+    "location_information": {  
+        "location_information_found": 0
+    }  
+```
+
 
 Thermostats have a limited amount of data that is able to be sent in its commodity packet. Some changes
 will not be reflected in the main commodity packet and will be included in a command_response packet so if 
