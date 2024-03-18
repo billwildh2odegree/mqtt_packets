@@ -51,6 +51,20 @@ more extensive than the main data plane packets. See the [Customer Cache](#custo
     }  
 ```
 
+Thermostats have a limited amount of data that is able to be sent in its commodity packet. Some changes
+will not be reflected in the main commodity packet and will be included in a command_response packet so if 
+a setting is changed or queried in a thermostat the device will respond in one of two ways. 
+	1. It will respond with its commodity packet format marked as commodity_packet which will include the updated value.
+ 	2. It will respond with the commodity packet format marked as command_response
+
+```javascript         
+    "command_response": {  
+        "none":"none"
+    }  
+```
+
+
+
 Sensor data will vary by device. The [Sample Packets By Device Type](#sample-packets-by-device-type) shows detailed commodity information and complete packets for each device. 
 
 ```javascript
