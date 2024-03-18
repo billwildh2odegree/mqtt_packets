@@ -236,7 +236,10 @@ Sensor data will vary by device. The [Sample Packets By Device Type](#sample-pac
         "sensor_data": {  
             "neighbors": 11,  
             "children": 0  
-        },  
+        },
+	"command_response": {  
+	        "none":"none"
+	},   
         "location_information": {  
             "location_information_found": 0,  
             "property_name": "",  
