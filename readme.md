@@ -58,8 +58,8 @@ a setting is changed or queried in a thermostat the device will respond in one o
 1. It will respond with its commodity packet format marked as commodity_packet which will include the updated value.
 2. It will respond with the commodity packet format marked as command_response
 
-If the payload_type is command_response there will be no usable sensor_data ; it will be "none":"none" .
-If the payload_type it commodity_data there will be no usable command_reponse data ; ; it will be "none":"none" .
+If the [payload_type](definitions.md#payload-type) is command_response there will be no usable sensor_data ; it will be "none":"none" .
+If the [payload_type](definitions.md#payload-type) it commodity_data there will be no usable command_reponse data ; ; it will be "none":"none" .
 
 Below is an empty payload response. Packets that may contain relevant data here will have the elements defined in the 
 packet examples 
