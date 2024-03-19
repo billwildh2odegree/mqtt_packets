@@ -65,9 +65,9 @@ Below is an empty payload response. Packets that may contain relevant data here 
 packet examples 
 
 ```javascript         
-    "command_response": {  
+    "command_response": [ 
         "none":"none"
-    }  
+    ] 
 ```
 
 
