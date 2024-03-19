@@ -129,9 +129,9 @@ Sensor data will vary by device. The [Sample Packets By Device Type](#sample-pac
             "flow_time_minutes": 6988,  
             "transmit_attempt_count": 16502  
         },
-	 "command_response": {  
+	 "command_response": [  
 	        "none":"none"
-	},  
+	],  
         "location_information": {  
             "location_information_found": 0,  
             "property_name": "",  
@@ -244,9 +244,9 @@ Sensor data will vary by device. The [Sample Packets By Device Type](#sample-pac
             "neighbors": 11,  
             "children": 0  
         },
-	"command_response": {  
+	"command_response": [  
 	        "none":"none"
-	},   
+	],   
         "location_information": {  
             "location_information_found": 0,  
             "property_name": "",  
