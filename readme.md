@@ -66,12 +66,86 @@ packet examples
 
 ```javascript         
     "command_response": [
-        {
-            "none": {
+        { "none": {
                 "none": "none"
+            }}
+    ],
+```
+Below is a populated payload response.
+
+```javascript
+
+{
+    "command_response": [
+        {
+            "get_zone_settings": {
+                "window_closed_zone_1_hour_24hr": 10,
+                "window_closed_zone_1_minute": 0,
+                "window_closed_zone_1_set_point_c": 20,
+                "window_closed_zone_1_set_limit_c": 22,
+                "window_closed_zone_2_hour_24hr": 23,
+                "window_closed_zone_2_minute": 0,
+                "window_closed_zone_2_set_point_c": 20,
+                "window_closed_zone_2_set_limit_c": 22,
+                "window_open_zone_1_hour_24hr": 10,
+                "window_open_zone_1_minute": 0,
+                "window_open_zone_1_set_point_c": 20,
+                "window_open_zone_1_set_limit_c": 22,
+                "window_open_zone_2_hour_24hr": 23,
+                "window_open_zone_2_minute": 0,
+                "window_open_zone_2_set_point_c": 20,
+                "window_open_zone_2_set_limit_c": 22,
+                "summer_month": 6,
+                "summer_day": 1,
+                "winter_month": 10,
+                "winter_day": 1,
+                "config_byte_decimal": 188,
+                "config_byte_binary": "10111100",
+                "window": "closed",
+                "time_zone": 1,
+                "override": "heat",
+                "season": "winter",
+                "window_sensor_led": "enabled",
+                "auto_season_changeover": "enabled",
+                "auto_multicast_scaling": "disabled"
+            }
+        },
+        {
+            "set_zone_settings": {
+                "window_closed_zone_1_hour_24hr": 10,
+                "window_closed_zone_1_minute": 0,
+                "window_closed_zone_1_set_point_c": 20,
+                "window_closed_zone_1_set_limit_c": 22,
+                "window_closed_zone_2_hour_24hr": 23,
+                "window_closed_zone_2_minute": 0,
+                "window_closed_zone_2_set_point_c": 20,
+                "window_closed_zone_2_set_limit_c": 22,
+                "window_open_zone_1_hour_24hr": 10,
+                "window_open_zone_1_minute": 0,
+                "window_open_zone_1_set_point_c": 20,
+                "window_open_zone_1_set_limit_c": 22,
+                "window_open_zone_2_hour_24hr": 23,
+                "window_open_zone_2_minute": 0,
+                "window_open_zone_2_set_point_c": 20,
+                "window_open_zone_2_set_limit_c": 22,
+                "summer_month": 6,
+                "summer_day": 1,
+                "winter_month": 10,
+                "winter_day": 1,
+                "config_byte_decimal": 188,
+                "config_byte_binary": "10111100",
+                "window": "closed",
+                "time_zone": 1,
+                "override": "heat",
+                "season": "winter",
+                "window_sensor_led": "enabled",
+                "auto_season_changeover": "enabled",
+                "auto_multicast_scaling": "disabled"
             }
         }
-    ],
+    ]
+
+
 ```
 
 
