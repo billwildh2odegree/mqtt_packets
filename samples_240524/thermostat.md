@@ -1,25 +1,27 @@
 ```javascript 
 
- {
-    "fan_active": "no", 
-    "fan_runtime_seconds": null, 
-    "multicast_hop": 2, 
-    "set_point_mode_numeric": null, 
-    "set_point_mode": null, 
-    "cool_active": "no", 
-    "cool_runtime_seconds": null, 
-    "attached_minis": 1, 
-    "mode": "heat", 
-    "cool_events": null, 
-    "cooling_set_point_f": null, 
-    "heat_active": "no", 
-    "heat_runtime_seconds": 6302626, 
-    "fan_events": null, 
-    "fan_mode": null, 
-    "heating_set_point_f": 68, 
-    "heat_events": 7265, 
-    "heat_active_seconds": 6302626, 
-    "indoor_temperature_f": 80.7
-} 
+{
+        "heat_runtime_seconds": 24177408,
+        "heat_active_seconds": 24177408,
+        "cool_runtime_seconds": 29736998,
+        "fan_runtime_seconds": 83460924,
+        "heat_events": 473,
+        "cool_events": 4629,
+        "fan_events": 3495,
+        "cooling_set_point_f": 0,
+        "heating_set_point_f": 0,
+        "set_point_mode_numeric": 0,
+        "set_point_mode": "program",
+        "indoor_temperature_f": 78.8,
+        "mode": "off",
+        "fan_mode": "auto",
+        "fan_active": "no",
+        "cool_active": "no",
+        "heat_active": "no",
+        "attached_minis": null,
+        "multicast_hop": null
+    }
+
+
 
 ```
