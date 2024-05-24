@@ -357,14 +357,19 @@ Sensor data will vary by device. The [Sample Packets By Device Type](#sample-pac
 
 Ultrasonic Water Meters
 
-[lora.axioma_ultrasonic.96](samples_240409/lora.axioma_ultrasonic.96.md)  
+[axioma_ultrasonic](samples_240524/axioma_ultrasonic.md)  
 
 Encoded Water Meters
 
-[lora.eleven_x_encoded.84](samples_240409/lora.eleven_x_encoded.84.md)  
-[lora.gwf_encoded_integrated.106](samples_240409/lora.gwf_encoded_integrated.106.md)  
-[lora.gwf_encoded_remote.107](samples_240409/lora.gwf_encoded_remote.107.md)  
-[lora.gwf_encoded_remote.108](samples_240409/lora.gwf_encoded_remote.108.md)  
+[eleven_x_encoded](samples_240524/eleven_x_encoded.md)  
+
+QMC Water Meters
+
+[gwf_water_meter](samples_240524/lora.gwf_water_meters.md)  
+
+Single Jet Digital Face Water Meters
+
+[h2o_eregister_water_meter](samples_240524/h2o_eregister_water_meter.md)  
 
 
 Aqura Water Meters
