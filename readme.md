@@ -365,7 +365,7 @@ Encoded Water Meters
 
 QMC Water Meters
 
-[gwf_water_meter](samples_240524/lora.gwf_water_meters.md)  
+[gwf_water_meter](samples_240524/gwf_water_meters.md)  
 
 Single Jet Digital Face Water Meters
 
@@ -374,86 +374,58 @@ Single Jet Digital Face Water Meters
 
 Aqura Water Meters
 
-[lora.aqura_water.75](samples_240409/lora.aqura_water.75.md)  
-[zigbee.aqura_water.36](samples_240409/zigbee.aqura_water.36.md)  
-[zigbee.aqura_water.40](samples_240409/zigbee.aqura_water.40.md)  
-[zigbee.aqura_water.42](samples_240409/zigbee.aqura_water.42.md)  
-[zigbee.aqura_water_one_inch.190](samples_240409/zigbee.aqura_water_one_inch.190.md)  
+[aqura_water](samples_240524/aqura_water.md)  
 
 Pulse Counters / Meters
 
-[lora.pulse_meter.104](samples_240409/lora.pulse_meter.104.md)  
-[lora.pulse_meter.46](samples_240409/lora.pulse_meter.46.md)  
-[lora.pulse_meter.73](samples_240409/lora.pulse_meter.73.md)  
-[lora.pulse_meter.78](samples_240409/lora.pulse_meter.78.md)  
-[lora.pulse_meter.81](samples_240409/lora.pulse_meter.81.md)  
-[zigbee.pulse_counter.126](samples_240409/zigbee.pulse_counter.126.md)  
-[zigbee.pulse_counter.140](samples_240409/zigbee.pulse_counter.140.md)  
-
+[pulse_meter](samples_240524/pulse_meter.md)  
 
 Flood Detection and Prevention
 
-[lora.dual_channel_water_sensor.79](samples_240409/lora.dual_channel_water_sensor.79.md)  
-[lora.rope_water_sensor.82](samples_240409/lora.rope_water_sensor.82.md)  
-[lora.strega_shut_off_valve.80](samples_240409/lora.strega_shut_off_valve.80.md)  
+[dual_channel_water_sensor](samples_240524/dual_channel_water_sensor.md)  
+[rope_water_sensor](samples_240524/rope_water_sensor.md)  
+[strega_shut_off_valve](samples_240524/strega_shut_off_valve.md)  
 
 
 Environment Monitoring
 
-[lora.temperature_humidity_sensor.60](samples_240409/lora.temperature_humidity_sensor.60.md)  
-[lora.temperature_humidity_sensor.64](samples_240409/lora.temperature_humidity_sensor.64.md)  
-[zigbee.temperature_humidity_sensor.155](samples_240409/zigbee.temperature_humidity_sensor.155.md)  
-
+[temperature_humidity_sensor.60](samples_240524/temperature_humidity_sensor.md)  
 
 Electric Meters
 
-[lora.dragino_satec_kwh.102](samples_240409/lora.dragino_satec_kwh.102.md)  
-[lora.vision_socket_12s.76](samples_240409/lora.vision_socket_12s.76.md)  
-[zigbee.electric.187](samples_240409/zigbee.electric.187.md)  
-[zigbee.accuenergy_modbus.192](samples_240409/zigbee.accuenergy_modbus.192.md)  
-[zigbee.ekm_rs485.166](samples_240409/zigbee.ekm_rs485.166.md)  
+[dragino_satec_kwh](samples_240524/dragino_satec_kwh.md)  
+[vision_socket_12s](samples_240524/vision_socket_12s.md)  
+[vision_socket](samples_240524/vision_socket.md)  
+[accuenergy_modbus](samples_240524/accuenergy_modbus.md)  
+[ekm_rs485](samples_240524/ekm_rs485.md)  
 
 
 
 BTU
 
-[zigbee.btu_commodity.173](samples_240409/zigbee.btu_commodity.173.md)  
-[zigbee.btu_diagnostic.174](samples_240409/zigbee.btu_diagnostic.174.md)  
+[btu_commodity](samples_240524/btu_commodity.md)  
+[btu_diagnostic](samples_240524/btu_diagnostic.md)  
 
 Baseboard Heat Realay Controllers
 
-[zigbee.mini.176](samples_240409/zigbee.mini.176.md)  
-[zigbee.mini_high_load.188](samples_240409/zigbee.mini_high_load.188.md)  
+[mini](samples_240524/mini.md)  
+[mini_high_load](samples_240524/mini_high_load.md)  
 
 Thermostats
 
-[zigbee.thermostat.129](samples_240409/zigbee.thermostat.129.md)  
-[zigbee.thermostat.171](samples_240409/zigbee.thermostat.171.md)  
-[zigbee.thermostat.179](samples_240409/zigbee.thermostat.179.md)  
-[zigbee.thermostat.182](samples_240409/zigbee.thermostat.182.md)  
+[thermostat](samples_240524/thermostat.md)  
+
 
 
 Zigbee Infrastructure
 
-[zigbee.coordinator.105](samples_240409/zigbee.coordinator.105.md)  
-[zigbee.router.100](samples_240409/zigbee.router.100.md)  
+[coordinator](samples_240524/coordinator.md)  
+[router](samples_240524/router.md)  
 
 Gateways
 
-[zigbee.vision_datagate.253](samples_240409/zigbee.vision_datagate.253.md)  
-[zigbee.zigbee_gateway.254](samples_240409/zigbee.zigbee_gateway.254.md)   
-
-No Payload Defined - Legacy Devices
-
-[zigbee.not_identified.119](samples_240409/zigbee.not_identified.119.md)  
-[zigbee.not_identified.120](samples_240409/zigbee.not_identified.120.md)  
-[zigbee.not_identified.123](samples_240409/zigbee.not_identified.123.md)  
-[zigbee.not_identified.124](samples_240409/zigbee.not_identified.124.md)  
-[zigbee.not_identified.125](samples_240409/zigbee.not_identified.125.md)  
-[zigbee.not_identified.151](samples_240409/zigbee.not_identified.151.md)  
-[zigbee.not_identified.181](samples_240409/zigbee.not_identified.181.md)  
-[zigbee.not_identified.183](samples_240409/zigbee.not_identified.183.md)  
-[zigbee.not_identified.189](samples_240409/zigbee.not_identified.189.md)  
+[vision_datagate](samples_240524/vision_datagate.md)  
+[zigbee_gateway](samples_240524/zigbee_gateway.md)   
 
 
 
