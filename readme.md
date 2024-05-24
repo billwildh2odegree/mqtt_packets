@@ -389,7 +389,7 @@ Flood Detection and Prevention
 
 Environment Monitoring
 
-[temperature_humidity_sensor.60](samples_240524/temperature_humidity_sensor.md)  
+[temperature_humidity_sensor](samples_240524/temperature_humidity_sensor.md)  
 
 Electric Meters
 
