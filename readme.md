@@ -371,7 +371,6 @@ Single Jet Digital Face Water Meters
 
 [h2o_eregister_water_meter](samples_240524/h2o_eregister_water_meter.md)  
 
-
 Aqura Water Meters
 
 [aqura_water](samples_240524/aqura_water.md)  
@@ -400,13 +399,12 @@ Electric Meters
 [ekm_rs485](samples_240524/ekm_rs485.md)  
 
 
-
 BTU
 
 [btu_commodity](samples_240524/btu_commodity.md)  
 [btu_diagnostic](samples_240524/btu_diagnostic.md)  
 
-Baseboard Heat Realay Controllers
+Baseboard Heat Relay Controllers
 
 [mini](samples_240524/mini.md)  
 [mini_high_load](samples_240524/mini_high_load.md)  
@@ -414,8 +412,6 @@ Baseboard Heat Realay Controllers
 Thermostats
 
 [thermostat](samples_240524/thermostat.md)  
-
-
 
 Zigbee Infrastructure
 
@@ -426,7 +422,6 @@ Gateways
 
 [vision_datagate](samples_240524/vision_datagate.md)  
 [zigbee_gateway](samples_240524/zigbee_gateway.md)   
-
 
 
 # Customer Cache
