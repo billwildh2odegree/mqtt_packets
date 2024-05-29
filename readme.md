@@ -393,7 +393,6 @@ Environment Monitoring
 Electric Meters
 
 [dragino_satec_kwh](samples_240524/dragino_satec_kwh.md)  
-[vision_socket_12s](samples_240524/vision_socket_12s.md)  
 [vision_socket](samples_240524/vision_socket.md)  
 [accuenergy_modbus](samples_240524/accuenergy_modbus.md)  
 [ekm_rs485](samples_240524/ekm_rs485.md)  
